@@ -1,6 +1,21 @@
 
 # Stream Deck Plugin Template
 
+
+## PLEASE NOTE: 
+THIS PLUGIN TEMPLATE IS OUTDATED!!
+
+PLEASE USE THE CURRENT ONE HERE:
+
+https://github.com/elgatosf/streamdeck-plugin-template
+
+
+
+
+
+---- 
+
+
 The `Stream Deck Plugin Template` is a boilerplate template to let you get started quickly when writing a Javascript plugin for [Stream Deck](https://developer.elgato.com/documentation/stream-deck/).
 
 `Stream Deck Plugin Template` requires Stream Deck 4.1 or later.
